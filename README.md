@@ -10,7 +10,7 @@ Seq2Seq 모델의 기본적인 학습 및 추론 과정을 이해하는 것을 �
 #### 간단한 Q&A 쌍으로 구성된 자체 데이터셋: https://raw.githubusercontent.com/songys/Chatbot_data/refs/heads/master/ChatbotData.csv
 
 함께 첨부된 Keras 모델 파일은 로드 시 에러가 발생할 수 있습니다. <br>
-가장 원활한 실행을 위해, 아래 **Colab 링크**를 통해 코드를 직접 실행해 보시는 것을 강력히 권장합니다!
+가장 원활한 실행을 위해, [COLAB LINK](https://colab.research.google.com/drive/1JMfSW540wcU8y-XesbS2tq1vqJrH3Zdh?usp=sharing) 를 통해 코드를 직접 실행해 보시는 것을 강력히 권장합니다! <br>
 <br>
 
 ### 3. 최종 결과
