@@ -1,7 +1,5 @@
 # Seq2Seq_QNA_Chatbot
 
-# Sentiment-Analysis
-
 ### 1. 프로젝트 개요
 TensorFlow/Keras를 활용하여 **Seq2Seq (Encoder-Decoder)** 모델을 구현한 간단한 한국어 Q&A 챗봇입니다. <br>
 LSTM 기반의 인코더-디코더 구조를 사용했으며, `SentencePiece` 토크나이저로 텍스트 전처리를 수행합니다. <br>
