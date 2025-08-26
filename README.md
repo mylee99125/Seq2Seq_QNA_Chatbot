@@ -14,4 +14,4 @@ Seq2Seq 모델의 기본적인 학습 및 추론 과정을 이해하는 것을 �
 <br>
 
 ### 3. 최종 결과
-<img width="491" height="324" alt="image" src="https://github.com/user-attachments/assets/e1c927af-9bfe-400c-ab42-4fe24b5c1e1a" />
+<img width="648" height="579" alt="image" src="https://github.com/user-attachments/assets/7dbe459c-49a6-48c8-be7d-410fb71a9f92" />
